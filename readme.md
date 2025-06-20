@@ -72,22 +72,10 @@ val coinList = listOf(
     Coin("Ethereum", "$4,000"),
     Coin("Solana", "$150")
 )
-```
 
----
 
-## 🛠️ How to Run
 
-1. Clone this repo:
 
-   ```bash
-   git clone https://github.com/yourusername/klist-dsl-compose.git
-   cd klist-dsl-compose
-   ```
-
-2. Open in Android Studio (Giraffe+ recommended)
-
-3. Run the project on emulator/device
 
 ---
 
