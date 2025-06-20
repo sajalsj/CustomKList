@@ -74,12 +74,7 @@ val coinList = listOf(
 )
 
 
-
-
-
----
-
-## 💡 Future Improvements
+### 💡 Future Improvements
 
 - 🔘 Add support for grid layouts (`LazyVerticalGrid`)
 - 🔘 Add item animations for insertion/deletion
