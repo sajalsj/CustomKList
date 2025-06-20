@@ -98,21 +98,4 @@ val coinList = listOf(
 - 🔘 Section collapsing/expanding
 - 🔘 Builder support for empty state and loading state
 
----
-
-## 📃 License
-
-MIT License
-
----
-
-## 🤝 Contributing
-
-Pull requests and ideas are welcome! Feel free to fork and improve the DSL or suggest enhancements.
-
----
-
-## 👨‍💻 Author
-
-Built with ❤️ by [Your Name](https://github.com/yourusername)
 
